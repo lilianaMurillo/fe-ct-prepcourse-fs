@@ -1,2 +1,3 @@
 Estoy haciendo unos cambios, para hacer mi primer git pull, a ver si lo logro.
 Maravilloso, ¡sí lo logré!
+Lo más maravilloso es que sí estoy sabiendo, y pudiendo, hacer git push.
